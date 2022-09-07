@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá Sou o Victor Andrade 👋
 
 - 🔭 Estou a procura de uma oportunidade na área da programação
 - 🌱 Estudando Sistemas de informação na Universidade Presbiteriana Mackenzie
